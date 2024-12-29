@@ -1,0 +1,19 @@
+.h5tag {
+    background-color: aqua;
+    color: brown;
+    font-size: 30px;
+}
+
+.h6_tag {
+    background-color: purple;
+    color: white;
+    font-size: 40px;
+}
+
+#h4tag {
+    background-color: orange;
+}
+.h2_tag{
+    background-color: black;
+    color: white;
+}
